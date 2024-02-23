@@ -1,4 +1,17 @@
 body {
-    background-color: beige;
-    color: black;
+    background-color: black;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: white;
+    background-color: green;
+    font-size: 500;
+}
+
+h1 {
+    width: 100px;
+    height: auto;
+    padding-top: 20px;
 }
